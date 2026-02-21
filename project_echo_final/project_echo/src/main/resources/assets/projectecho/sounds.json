@@ -1,0 +1,52 @@
+{
+  "entity.null_pointer.ambient": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/ambient1", "volume": 1.0},
+      {"name": "projectecho:entity/null_pointer/ambient2", "volume": 1.0}
+    ]
+  },
+  "entity.null_pointer.hurt": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/hurt1"},
+      {"name": "projectecho:entity/null_pointer/hurt2"}
+    ]
+  },
+  "entity.null_pointer.warning": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/warning"}
+    ]
+  },
+  "entity.null_pointer.blink": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/blink"}
+    ]
+  },
+  "entity.null_pointer.repair": {
+    "category": "blocks",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/repair"}
+    ]
+  },
+  "entity.null_pointer.sync": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/sync"}
+    ]
+  },
+  "entity.null_pointer.collapse": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/collapse", "volume": 3.0}
+    ]
+  },
+  "entity.null_pointer.ascend": {
+    "category": "hostile",
+    "sounds": [
+      {"name": "projectecho:entity/null_pointer/ascend", "volume": 2.0}
+    ]
+  }
+}
